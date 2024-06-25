@@ -80,7 +80,7 @@ Here is an example of how to add them:
         }
     ]
 }
-
+```
 ### Step 3:  Apply the Color Scheme to a Profile
 
 To apply the color scheme to a specific profile, add or modify the "colorScheme" property in the desired profile. Here is an example:
@@ -104,5 +104,5 @@ To apply the color scheme to a specific profile, add or modify the "colorScheme"
         ]
     }
 }
-
+```
 
