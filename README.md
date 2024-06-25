@@ -3,7 +3,12 @@
 This repository contains two custom color schemes for Windows Terminal:
 
 - **Dark Brown Gold**
+![Dark Brown Gold Example](./dark_brown_gold.png)
+
 - **Deep Dark Brown Gold**
+![Deep Dark Brown Gold Example](./deep_dark_brown_gold.png)
+
+
 
 ## How to Use
 
