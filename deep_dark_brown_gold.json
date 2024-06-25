@@ -1,0 +1,24 @@
+{
+    "background": "#0D0C0A",
+    "black": "#1C1B19",
+    "blue": "#1E90FF",
+    "brightBlack": "#3E3D32",
+    "brightBlue": "#4682B4",
+    "brightCyan": "#76EEC6",
+    "brightGreen": "#8FBC8F",
+    "brightPurple": "#B03060",
+    "brightRed": "#CD5C5C",
+    "brightWhite": "#F5DEB3",
+    "brightYellow": "#FFD700",
+    "cursorColor": "#FFD700",
+    "cyan": "#00CED1",
+    "foreground": "#D7D7AF",
+    "green": "#556B2F",
+    "name": "Deep Dark Brown Gold",
+    "purple": "#9370DB",
+    "red": "#8B0000",
+    "selectionBackground": "#3E3D32",
+    "white": "#D7D7AF",
+    "yellow": "#FFD700"
+}
+

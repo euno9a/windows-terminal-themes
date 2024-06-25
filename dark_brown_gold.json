@@ -1,0 +1,24 @@
+{
+    "background": "#1C1B19",
+    "black": "#1C1B19",
+    "blue": "#0087FF",
+    "brightBlack": "#3E3D32",
+    "brightBlue": "#5FAFFF",
+    "brightCyan": "#6FB5A9",
+    "brightGreen": "#A1B56C",
+    "brightPurple": "#BAA58C",
+    "brightRed": "#FF5F5F",
+    "brightWhite": "#FDF6E3",
+    "brightYellow": "#FFD700",
+    "cursorColor": "#FFD700",
+    "cyan": "#2AA198",
+    "foreground": "#D7D7AF",
+    "green": "#719E07",
+    "name": "Dark Brown Gold",
+    "purple": "#9E4E8A",
+    "red": "#CC0000",
+    "selectionBackground": "#3E3D32",
+    "white": "#D7D7AF",
+    "yellow": "#FFD700"
+}
+
